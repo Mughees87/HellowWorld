@@ -22,6 +22,10 @@ class ViewController: UIViewController {
         
         // private commit
     }
+    
+    func test() {
+        // this is a test method
+    }
 
 
 }
