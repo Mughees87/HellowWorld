@@ -21,12 +21,9 @@ class ViewController: UIViewController {
         // Dev commit
         
         // private commit
-    }
-    
-    func test() {
-        // this is a test method
-        //
-        //
+        
+        // hellowWorld
+        // Jenkins test
     }
 
 
