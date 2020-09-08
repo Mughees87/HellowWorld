@@ -1,0 +1,8 @@
+app_identifier("com.mughees.HelloWorld") # The bundle identifier of your app
+apple_id("mughees.musaddiq@live.co.uk") # Your Apple email address
+
+itc_team_id("118887787") # App Store Connect Team ID
+team_id("Y6WP2ZJ593") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
