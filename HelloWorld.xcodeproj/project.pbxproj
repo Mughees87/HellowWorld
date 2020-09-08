@@ -196,13 +196,16 @@
 				TargetAttributes = {
 					BB8D8A1925057172002BA16D = {
 						CreatedOnToolsVersion = 11.5;
+						ProvisioningStyle = Automatic;
 					};
 					BB8D8A2F25057174002BA16D = {
 						CreatedOnToolsVersion = 11.5;
+						ProvisioningStyle = Automatic;
 						TestTargetID = BB8D8A1925057172002BA16D;
 					};
 					BB8D8A3A25057174002BA16D = {
 						CreatedOnToolsVersion = 11.5;
+						ProvisioningStyle = Automatic;
 						TestTargetID = BB8D8A1925057172002BA16D;
 					};
 				};
